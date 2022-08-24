@@ -1,7 +1,0 @@
----
-- hosts: localhost
-  connection: local
-  roles:
-    - role: bitbucket-role
-    - role: psql
- 
